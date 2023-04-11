@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176451984302",
+    "project_id": "boxoffice-92b8c",
+    "storage_bucket": "boxoffice-92b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176451984302:android:b87475609559e35963463f",
+        "android_client_info": {
+          "package_name": "com.boxoffice.box_office"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176451984302-ashbmjm9qf6j74udt8i0vjt0mq2v7srj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9VXI1Xds57OOfTjX8XEJpysCz-gxEIws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176451984302-ashbmjm9qf6j74udt8i0vjt0mq2v7srj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
